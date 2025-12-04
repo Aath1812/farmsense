@@ -2,7 +2,6 @@
 
 **FarmSense** is a comprehensive mobile application designed to assist farmers in managing their crop cycles, tracking yields, and staying updated with real-time weather conditions. Built with **Flutter** and **Riverpod**, it features a professional, offline-first architecture for the OJT Project.
 
-> **Status:** Code Complete & Submission Ready
 
 ---
 
@@ -23,7 +22,7 @@
     * **Biggest Harvests (kg):** Ranks crops by total weight produced.
     * **Active Fields / Most Planted:** Ranks crops by activity count for planning.
 
-### 4. ⚙️ Professional Architecture & UX
+### 4. ⚙️ Professional Feel Architecture & UX
 * **Modular Navigation:** Uses the Material 3 `NavigationBar` and smooth page transitions for a modern feel.
 * **Refactored Profile:** The User Profile logic (saving Age, Land Size, Soil Type) is correctly managed by a dedicated **Riverpod StateNotifier**, ensuring clean separation of business logic from the UI.
 * **Robust Error Handling:** API errors (like 404 Not Found) and null values are handled gracefully, preventing crashes.
@@ -66,8 +65,4 @@ Follow these steps to run the project locally:
 
 ---
 
-## 📸 Screenshots (Placeholder)
 
-| Home Screen (Dynamic Weather) | Crop Logs List | Analytics (Crop Ranking) | Profile Screen (Research Fields) |
-| :---: | :---: | :---: | :---: |
-|  |  |  |  |
